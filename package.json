@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "node solutionOne.js"
+    "dev": "node index.js"
   },
   "author": "Genara Sousa, Thalison Campos, Renato Gangster",
   "license": "MIT",
