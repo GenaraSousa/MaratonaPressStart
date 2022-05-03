@@ -16,12 +16,12 @@ Essa iteração é feita de forma recursiva até que não seja encontrada mais n
 A segunda função consiste na comparação dos caracteres que permaneceram das strings. Caso o resultado da comparação seja igual, o algoritmo retorna true; caso seja diferente, retorna false.
 
 
-# Como testar
+# Como Testar
 
 Para testar o algoritmo, basta chamar a função checkTextEquality passando as strings a serem comparados como parâmetros.
 O comando para executar o projeto é npm dev ou yarn dev.
 
 # Autores
-Genara Sousa
-Thalison Campos
+Genara Sousa,
+Thalison Campos,
 Renato Ganske
