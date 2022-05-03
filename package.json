@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "node index.js"
   },
-  "author": "Genara Sousa, Thalison Campos, Renato Gangster",
+  "author": "Genara Sousa, Thalison Campos, Renato Ganske",
   "license": "MIT",
   "dependencies": {}
 }
