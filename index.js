@@ -5,12 +5,14 @@ function checkTextEquality(textOne, textTwo) {
 function cleanText(text) {
     const listString = [...text];
     const position = listString.findIndex((char) => char === "#");
+    console.log(listString);
     if (position === -1) return listString;
 
     if (position === 0) {
         listString.splice(position, 1);
         return cleanText(listString);
     }
+
     listString.splice(position - 1, 2)
     return cleanText(listString);
 }
